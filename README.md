@@ -962,7 +962,7 @@ int main(int argc, char **argv)
 ```
 ## OUTPUT:
 1.512
-<img width="1048" height="179" alt="image" src="https://github.com/user-attachments/assets/ad69e9f3-7af1-4da7-af25-ccf5484fbb44" />
+<img width="1735" height="213" alt="image" src="https://github.com/user-attachments/assets/6b2ef159-c2eb-492c-997f-3f830877d966" />
 
 2.1023
 
