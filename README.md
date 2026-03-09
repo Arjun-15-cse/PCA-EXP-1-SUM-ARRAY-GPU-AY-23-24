@@ -965,12 +965,15 @@ int main(int argc, char **argv)
 <img width="1048" height="179" alt="image" src="https://github.com/user-attachments/assets/ad69e9f3-7af1-4da7-af25-ccf5484fbb44" />
 
 2.1023
+
 <img width="858" height="132" alt="image" src="https://github.com/user-attachments/assets/7d9af7ab-c24e-4de1-a479-d6ba74b8d49e" />
 
 3.1024
+
 <img width="851" height="131" alt="image" src="https://github.com/user-attachments/assets/f135c4d7-ff28-4b57-ba25-b878577050de" />
 
 4.256
+
 <img width="856" height="136" alt="image" src="https://github.com/user-attachments/assets/abef7062-8410-4a49-aef4-464302df6d89" />
 
 ## RESULT:
